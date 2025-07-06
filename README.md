@@ -7,13 +7,6 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 https://astonishing-marzipan-e2ae0e.netlify.app/
 ---
 
-## 📁 Project Structure
-├── assets/ # Images, icons, and other static files
-├── components/ # Reusable UI components
-├── pages/ # Main sections/pages (Home, About, Projects, Contact)
-├── styles/ # CSS or Tailwind/SCSS files
-├── public/ # Public files (favicon, robots.txt, etc.)
-└── index.html # Entry point of the site
 
 ---
 
