@@ -46,9 +46,9 @@ While building this portfolio, I improved my skills in:
 
 If you’d like to get in touch with me:
 
-- **Email**: your.email@example.com  
-- **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **Email**: aditichatterjee588@gmail.com
+- **LinkedIn**: [linkedin.com/in/yourusername](https://www.linkedin.com/in/aditi-ch9)  
+- **GitHub**: [github.com/yourusername](https://github.com/Aditi0257e)
 
 ---
 
